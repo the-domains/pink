@@ -1,17 +1,17 @@
 analytics: {}
 color:
   brandColors:
-    - '#A8B0C0'
-    - '#706818'
-    - '#9098A8'
-    - '#B80820'
-    - '#E0D898'
-  brandStrength: 0.252252
-  lightness: 0.545045
-  rhythmicContrast: 0.163162
-  saturation: 0.507882
+    - '#E0D8E0'
+    - '#711438'
+    - '#C880A0'
+    - '#E05088'
+    - '#F8B8C8'
+  brandStrength: 1
+  lightness: 0.618244
+  rhythmicContrast: 0.920045
+  saturation: 0.512388
 cta: {}
-layout_spectrum: 0.943693
+layout_spectrum: 0.932432
 name: PINK
 opengraph: {}
 purpose: {}
