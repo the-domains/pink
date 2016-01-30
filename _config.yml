@@ -6,10 +6,10 @@ color:
     - '#9098A8'
     - '#B80820'
     - '#E0D898'
-  brandStrength: 1
-  lightness: 0.134009
+  brandStrength: 0.252252
+  lightness: 0.545045
   rhythmicContrast: 0.163162
-  saturation: 0
+  saturation: 0.507882
 cta: {}
 layout_spectrum: 0.943693
 name: PINK
